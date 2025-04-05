@@ -1,6 +1,25 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<div align="center" style="background-color:#0d1b2a; padding: 25px; border-radius: 16px; box-shadow: 0 0 25px #00fff7; width: fit-content; margin: auto; line-height: 1.4;">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00FFF7&width=700&lines=class+RatulPal%3A" alt="line-1" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00FFF7&width=700&lines=%C2%A0%C2%A0def+__init__%28self%29%3A" alt="line-2" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00FFF7&width=700&lines=%C2%A0%C2%A0%C2%A0%C2%A0self.title+%3D+%22Full+Stack+Cloud+Native+Engineer%22" alt="line-3" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00FFF7&width=700&lines=%C2%A0%C2%A0%C2%A0%C2%A0self.skills+%3D+%5B%22Python%22%2C+%22JavaScript%22%2C+%22React%22%2C+%22Django%22%5D" alt="line-4" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00FFF7&width=700&lines=%C2%A0%C2%A0%C2%A0%C2%A0self.experience+%3D+3" alt="line-5" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00FFF7&width=700&lines=%C2%A0%C2%A0%C2%A0%C2%A0self.motto+%3D+%22Always+learning%2C+always+building!%22" alt="line-6" />
+
 </div>
+
+
+
+
+
+
+
 
 ###
 
