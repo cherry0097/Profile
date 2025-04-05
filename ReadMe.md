@@ -1,5 +1,32 @@
 # 💫 About Me:
-I’m a passionate Full Stack Cloud-Native Engineer with 3 years of professional experience building scalable, efficient, and cloud-ready applications. I specialize in modern web development using Python, JavaScript/TypeScript, and ABAP, and I enjoy crafting intuitive frontends with React JS, Tailwind CSS, and Bootstrap. On the backend, I build robust APIs using Flask, Node.js, and Express.js, backed by MongoDB, PostgreSQL, or MySQL.<br><br>With hands-on experience in Docker, Kubernetes (Helm), and GCP, I bring cloud-native solutions to life, integrating CI/CD pipelines with GitHub, Git, and Jenkins. I’m also comfortable scripting in Linux Bash, working with gRPC, and navigating complex networking protocols. My goal is to deliver clean, maintainable code and to contribute to innovative projects that make a real impact.<br><br>Let’s connect, collaborate, and create something great!
+## 👨‍💻 Ratul Pal
+
+Hi there! I'm a **Full Stack Cloud Native Engineer** with 3+ years of hands-on experience building scalable, secure, and high-performance applications. I specialize in designing end-to-end solutions that seamlessly bridge frontend and backend systems with cloud infrastructure.  
+
+### 🛠️ Tech Stack Highlights
+
+- **Languages:** Python, JavaScript / TypeScript, ABAP  
+- **Frontend:** React.js, Tailwind CSS, Bootstrap  
+- **Backend:** Node.js, Express.js, Flask, RESTful APIs  
+- **Databases:** MongoDB, PostgreSQL, MySQL  
+- **Cloud & DevOps:** Google Cloud Platform (GCP), Docker, Kubernetes (Helm), Jenkins  
+- **Automation:** Linux Bash Scripting  
+- **Networking:** HTTP/HTTPS, gRPC  
+- **Tools:** Git, GitHub, CI/CD Pipelines  
+
+---
+
+### 🌐 What I’m Passionate About
+
+- Building **cloud-native** applications with modern web tech  
+- Writing **clean, efficient, and scalable** code  
+- Automating processes to boost productivity  
+- Exploring the latest trends in **DevOps and infrastructure as code**
+
+---
+
+> _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
+
 
 
 ## 🌐 Socials:
