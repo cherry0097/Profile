@@ -2,7 +2,9 @@
 ###
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00FFF7&center=true&vCenter=true&repeat=false&width=500&lines=👨‍💻+About+Me" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00FFF7&center=true&vCenter=true&repeat=false&width=600&lines=😎+Who's+Behind+the+Code+👨‍💻%3F" />
+
+
 </h1>
 
 <p align="center">
@@ -12,7 +14,7 @@
 
 
 
-<h2 align="center">🔗 Let’s Connect & Build Together 🌐</h2>
+<h2 align="center">🤝 Let’s Connect & Build the Future Together 🌍</h2>
 
 <p align="center">
    <a href="https://www.linkedin.com/in/ratul-pal/" target="_blank">
