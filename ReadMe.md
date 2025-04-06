@@ -74,8 +74,31 @@
 
 ###
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=cherry0097&limit=5&theme=neon&combine_all_yearly_contributions=true)
+<h3 align="left">🔝 Top Contributed Repositories</h3>
+
+<p align="center">
+  <a href="https://github.com/cherry0097/LearnPython" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cherry0097&repo=LearnPython&theme=react&bg_color=0D1117&title_color=00FFF7&text_color=ffffff&icon_color=00FFF7&hide_border=true" alt="Repo One" />
+  </a>
+  <a href="https://github.com/cherry0097/Database" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cherry0097&repo=Database&theme=react&bg_color=0D1117&title_color=00FFF7&text_color=ffffff&icon_color=00FFF7&hide_border=true" alt="Repo Two" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/cherry0097/ProjectEmployee" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cherry0097&repo=ProjectEmployee&theme=react&bg_color=0D1117&title_color=00FFF7&text_color=ffffff&icon_color=00FFF7&hide_border=true" alt="Repo Three" />
+  </a>
+  <a href="https://github.com/cherry0097/React_Learning" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cherry0097&repo=React_Learning&theme=react&bg_color=0D1117&title_color=00FFF7&text_color=ffffff&icon_color=00FFF7&hide_border=true" alt="Repo Four" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/cherry0097/Java-Script" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cherry0097&repo=Java-Script&theme=react&bg_color=0D1117&title_color=00FFF7&text_color=ffffff&icon_color=00FFF7&hide_border=true" alt="Repo Five" />
+  </a>
+</p>
 
 <!-- My Stats Header -->
 <h3 align="left">🔥 My Stats :</h3>
