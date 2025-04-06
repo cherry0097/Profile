@@ -37,7 +37,7 @@
 
 ###
 
-<h3 align="left">Language and Tools</h3>
+<h3 align="left">🖥️Language and Tools</h3>
 
 
 <p align="center">
@@ -80,67 +80,70 @@
 
 ###
 
-<h3 align="left">🔝 Top Contributed Repositories</h3>
+### 🔝 Top 4 Contributed Repositories
 
-<p align="center">
+<div align="left">
   <a href="https://github.com/cherry0097/LearnPython" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cherry0097&repo=LearnPython&theme=react&bg_color=0D1117&title_color=00FFF7&text_color=ffffff&icon_color=00FFF7&hide_border=true" alt="Repo One" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cherry0097&repo=LearnPython&theme=react&bg_color=0D1117&title_color=00FFF7&text_color=ffffff&icon_color=00FFF7&hide_border=true" />
   </a>
+  
   <a href="https://github.com/cherry0097/Database" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cherry0097&repo=Database&theme=react&bg_color=0D1117&title_color=00FFF7&text_color=ffffff&icon_color=00FFF7&hide_border=true" alt="Repo Two" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cherry0097&repo=Database&theme=react&bg_color=0D1117&title_color=00FFF7&text_color=ffffff&icon_color=00FFF7&hide_border=true" />
   </a>
-</p>
+</div>
 
-<p align="center">
+<br/>
+
+<div align="left">
   <a href="https://github.com/cherry0097/ProjectEmployee" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cherry0097&repo=ProjectEmployee&theme=react&bg_color=0D1117&title_color=00FFF7&text_color=ffffff&icon_color=00FFF7&hide_border=true" alt="Repo Three" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cherry0097&repo=ProjectEmployee&theme=react&bg_color=0D1117&title_color=00FFF7&text_color=ffffff&icon_color=00FFF7&hide_border=true" />
   </a>
-  <a href="https://github.com/cherry0097/React_Learning" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cherry0097&repo=React_Learning&theme=react&bg_color=0D1117&title_color=00FFF7&text_color=ffffff&icon_color=00FFF7&hide_border=true" alt="Repo Four" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/cherry0097/Java-Script" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cherry0097&repo=Java-Script&theme=react&bg_color=0D1117&title_color=00FFF7&text_color=ffffff&icon_color=00FFF7&hide_border=true" alt="Repo Five" />
+  <a href="https://github.com/cherry0097/React_Learning" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cherry0097&repo=React_Learning&theme=react&bg_color=0D1117&title_color=00FFF7&text_color=ffffff&icon_color=00FFF7&hide_border=true" />
   </a>
-</p>
+</div>
+
+<br/>
+
+<div align="left">
+<a href="https://github.com/cherry0097?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/🚀 VIEW ALL PROJECTS ON GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FFF7&labelColor=1A1A1A&color=00FFF7" alt="View All Repositories" />
+</a>
+
+</div>
+
+
+
 
 <!-- My Stats Header -->
 <h3 align="left">🔥 My Stats :</h3>
 
-<!-- Table layout for side-by-side view -->
-<table border="0">
-  <tr>
-    <!-- Left Side: Typing Animation -->
-    <td align="left">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=16000&speed=50&deleteSpeed=50&color=00FFF7&center=false&width=435&lines=class+Engineer%3A" /><br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&startDelay=2500&pause=13500&speed=50&deleteSpeed=50&color=00FFF7&center=false&width=435&lines=++++def+__init__(self)%3A" /><br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&startDelay=5000&pause=11000&speed=50&deleteSpeed=50&color=00FFF7&center=false&width=435&lines=++++++++self.role+='Full+Stack+Cloud+Native+Engineer'" /><br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&startDelay=8000&pause=8500&speed=50&deleteSpeed=50&color=00FFF7&center=false&width=435&lines=++++++++self.traits+='Pythonic+Thinker+%F0%9F%A7%A0'" /><br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&startDelay=10500&pause=6000&speed=50&deleteSpeed=50&color=00FFF7&center=false&width=435&lines=++++++++self.mindset+='Always+Building+%F0%9F%9A%80'" />
 
-  </td>
-  <td align="right">
+<!-- Card Layout Start -->
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 20px;">
+
+    <!-- Left Card: Typing Animation -->
+<div>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=16000&speed=50&deleteSpeed=50&color=00FFF7&center=false&width=435&lines=class+Engineer%3A" /><br>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&startDelay=2500&pause=13500&speed=50&deleteSpeed=50&color=00FFF7&center=false&width=435&lines=++++def+__init__(self)%3A" /><br>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&startDelay=5000&pause=11000&speed=50&deleteSpeed=50&color=00FFF7&center=false&width=435&lines=++++++++self.role+='Full+Stack+Cloud+Native+Engineer'" /><br>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&startDelay=8000&pause=8500&speed=50&deleteSpeed=50&color=00FFF7&center=false&width=435&lines=++++++++self.traits+='Pythonic+Thinker+%F0%9F%A7%A0'" /><br>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&startDelay=10500&pause=6000&speed=50&deleteSpeed=50&color=00FFF7&center=false&width=435&lines=++++++++self.mindset+='Always+Building+%F0%9F%9A%80'" />
+    </div>
+
+    <!-- Right Card: GitHub Stats -->
+<div>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cherry0097&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFF7&icon_color=00FFF7&text_color=ffffff" />
-    </td>
-  </tr>
-</table>
+    </div>
 
-<table border="0">
-  <tr>
-    <!-- Left Side: Typing Animation -->
-    <td align="left">
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cherry0097&hide_border=true&background=0D1117&ring=00FFF7&fire=00FFF7&currStreakLabel=00FFF7" />
-    </td>
-    <td align="right">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherry0097&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFF7&text_color=ffffff" />
-    </td>
-  </tr>
-</table>
-
-
+  </div>
 </div>
+<!-- Card Layout End -->
+
+
+
 
 ###
 
