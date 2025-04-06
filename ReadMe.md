@@ -1,9 +1,9 @@
 <!-- README completed and enhanced with neon theme, animated stats, and verified links. Feel free to personalize further! 🚀 -->
 ###
 
-<h2 align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00FFF7&center=true&vCenter=true&repeat=false&width=500&lines=👨‍💻+About+Me" />
-</h2>
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFF7&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Ratul+Pal.;Full+Stack+Cloud+Native+Engineer+%7C+3%2B+Years+of+Experience.;Scalable+App+Builder+☁️+%7C+DevOps+Enthusiast.;I+craft+clean+code+with+creative+impact+🚀" />
@@ -118,29 +118,27 @@
 
 <!-- My Stats Header -->
 <h3 align="left">🔥 My Stats :</h3>
-
-
-<!-- Card Layout Start -->
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 20px;">
-
-    <!-- Left Card: Typing Animation -->
-<div>
+<table border="0">
+  <tr>
+    <td>
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=16000&speed=50&deleteSpeed=50&color=00FFF7&center=false&width=435&lines=class+Engineer%3A" /><br>
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&startDelay=2500&pause=13500&speed=50&deleteSpeed=50&color=00FFF7&center=false&width=435&lines=++++def+__init__(self)%3A" /><br>
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&startDelay=5000&pause=11000&speed=50&deleteSpeed=50&color=00FFF7&center=false&width=435&lines=++++++++self.role+='Full+Stack+Cloud+Native+Engineer'" /><br>
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&startDelay=8000&pause=8500&speed=50&deleteSpeed=50&color=00FFF7&center=false&width=435&lines=++++++++self.traits+='Pythonic+Thinker+%F0%9F%A7%A0'" /><br>
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&startDelay=10500&pause=6000&speed=50&deleteSpeed=50&color=00FFF7&center=false&width=435&lines=++++++++self.mindset+='Always+Building+%F0%9F%9A%80'" />
-    </div>
+    </td>
+<td>
+      <img src="https://github-readme-stats.vercel.app/api?username=cherry0097&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFF7&icon_color=00FFF7&text_color=ffffff" />
+    </td>
+  </tr>
+</table>
 
-    <!-- Right Card: GitHub Stats -->
-<div>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cherry0097&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFF7&icon_color=00FFF7&text_color=ffffff" />
-    </div>
 
-  </div>
-</div>
-<!-- Card Layout End -->
+
+
+
+
+
 
 
 
