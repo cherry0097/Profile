@@ -2,7 +2,7 @@
 ###
 
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00FFF7&center=true&vCenter=true&repeat=false&width=600&lines=😎+Who's+Behind+the+Code+👨‍💻%3F" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00FFF7&center=true&vCenter=true&repeat=false&width=600&lines=%F0%9F%98%8E+Who%27s+Behind+the+Code+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%3F" />
 
 
 </h1>
