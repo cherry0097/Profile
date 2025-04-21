@@ -20,7 +20,7 @@
    <a href="https://www.linkedin.com/in/ratul-pal/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" alt="LinkedIn" />
   </a>
-  <a href="mailto:ratulpal26@gmail.com" target="_blank">
+  <a href="[mailto:ratulpal26@gmail.com](https://mail.google.com/mail/?view=cm&to=ratulpal26@gmail.com)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" alt="Gmail" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100075706825564" target="_blank">
