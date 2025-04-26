@@ -85,11 +85,12 @@
 ### 🔝 Top 4 Contributed Repositories
 
 <div align="left">
-  <a href="https://github.com/cherry0097/LearnPython" target="_blank">
+  
+  <a href="https://github.com/cherry0097/Django-Blogs-Project" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cherry0097&repo=LearnPython&theme=react&bg_color=0D1117&title_color=00FFF7&text_color=ffffff&icon_color=00FFF7&hide_border=true" />
   </a>
   
-  <a href="https://github.com/cherry0097/Database" target="_blank">
+  <a href="https://github.com/cherry0097/LearnPython" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cherry0097&repo=Database&theme=react&bg_color=0D1117&title_color=00FFF7&text_color=ffffff&icon_color=00FFF7&hide_border=true" />
   </a>
 </div>
@@ -97,11 +98,11 @@
 <br/>
 
 <div align="left">
-  <a href="https://github.com/cherry0097/ProjectEmployee" target="_blank">
+  <a href="https://github.com/cherry0097/Database" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cherry0097&repo=ProjectEmployee&theme=react&bg_color=0D1117&title_color=00FFF7&text_color=ffffff&icon_color=00FFF7&hide_border=true" />
   </a>
 
-  <a href="https://github.com/cherry0097/React_Learning" target="_blank">
+  <a href="https://github.com/cherry0097/ProjectEmployee" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cherry0097&repo=React_Learning&theme=react&bg_color=0D1117&title_color=00FFF7&text_color=ffffff&icon_color=00FFF7&hide_border=true" />
   </a>
 </div>
